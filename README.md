@@ -1,2 +1,4 @@
-# frappuccino
-frappe frap
+*** Run
+
+coq_makefile -f _CoqProject -o Makefile
+make
