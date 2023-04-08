@@ -1,3 +1,4 @@
-Require Import Frap.
+Require Import Frap.Frap.
 
 Definition valuation := fmap var nat.
+
